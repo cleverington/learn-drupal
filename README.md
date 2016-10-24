@@ -107,6 +107,10 @@ There is a curated list of sessions available at [24x7 Drupal Camp](http://www.d
 
 * [Acquia Dev Desktop](http://www.acquia.com/products-services/dev-desktop)
 * [Kalabox](http://www.kalabox.io/)
+* [Docker4Drupal](http://docker4drupal.org/)
+* [Docksal (formerly _Drude_)](http://docksal.io/)
+
+
 
 ## Hosting
 
